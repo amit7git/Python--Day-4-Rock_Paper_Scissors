@@ -6,6 +6,10 @@ button {
   font-size: 30px;
 }
 
+.content {
+  white-space: pre;
+}
+
 .terminal {
   font-family: "IBM Plex Mono", monospace;
   color: rgb(187, 187, 187);
